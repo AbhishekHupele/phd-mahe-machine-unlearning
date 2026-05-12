@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  12 MAY 2026 13:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  12 MAY 2026 14:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -249,51 +249,79 @@ LaTeX Info: Redefining \hbar on input line 50.
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
-.
+(C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip58
+\thanksmargin=\skip59
+\droptitle=\skip60
+)
+(C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
+(C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen158
+\captionmargin=\dimen159
+\caption@leftmargin=\dimen160
+\caption@rightmargin=\dimen161
+\caption@width=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+1.
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count301
+\l__color_backend_stack_int=\count303
 ) (latex1.aux)
 \openout1 = `latex1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen158
+\scratchcounter=\count304
+\scratchdimen=\dimen166
 \scratchbox=\box60
-\nofMPsegments=\count303
-\nofMParguments=\count304
+\nofMPsegments=\count305
+\nofMParguments=\count306
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen159
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen167
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
 \everyMPtoPDFconversion=\toks21
 )
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -306,52 +334,71 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 9.
- (latex1.out) (latex1.out)
+Package hyperref Info: Link coloring OFF on input line 11.
+ (latex1.out) (latex1.out
+! I can't write on file `latex1.pdf'.
+(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
+Please type another file name for output: 
+)
 \@outlinefile=\write3
 \openout3 = `latex1.out'.
 
-\big@size=\dimen160
+\big@size=\dimen168
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<images/mahe_logo.png, id=71, 261.97874pt x 73.77562pt>
+File: images/mahe_logo.png Graphic file (type png)
+<use images/mahe_logo.png>
+Package pdftex.def Info: images/mahe_logo.png  used on input line 27.
+(pdftex.def)             Requested size: 195.0pt x 54.91504pt.
+ [1
+
+{C:/Users/abhis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/abhi
+s/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/mahe_log
+o.png>]
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 16.
+ 85.
 
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 16.
+ 85.
 
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 16.
+ 85.
 
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 16.
+ 85.
 
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 
-Overfull \hbox (60.01512pt too wide) in paragraph at lines 16--16
- [][] 
+Overfull \hbox (60.01512pt too wide) in paragraph at lines 85--85
+ [] 
  []
 
-[1
 
-{C:/Users/abhis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/abhi
-s/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.85 \maketitle
+                [1]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 8
 9.
 
 (C:\Users\abhis\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
@@ -361,7 +408,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 \newpage
+l.93 \newpage
               [1] (latex1.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
@@ -388,7 +435,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
  [5
 
 ]
-Overfull \hbox (3.88582pt too wide) in alignment at lines 29--45
+Overfull \hbox (3.88582pt too wide) in alignment at lines 99--115
  [] [] 
  []
 
@@ -401,47 +448,47 @@ Chapter 1.
 ] [8] [9]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 []|\OT1/ptm/m/n/12 Not peer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 []|\OT1/ptm/m/n/12 Overview of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 []|\OT1/ptm/m/n/12 Limited em-pir-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []|\OT1/ptm/m/n/12 Establishes
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 92--92
+Underfull \hbox (badness 7869) in paragraph at lines 162--162
 \OT1/ptm/m/n/12 un-learn-ing cat-e-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 []|\OT1/ptm/m/n/12 Limited stream-
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 94--94
+Underfull \hbox (badness 2213) in paragraph at lines 164--164
 []|\OT1/ptm/m/n/12 Open-source GT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 []|\OT1/ptm/m/n/12 Limited tem-
  []
 
 
-Overfull \hbox (204.1158pt too wide) in alignment at lines 84--97
+Overfull \hbox (204.1158pt too wide) in alignment at lines 154--167
  [] [] [] [] [] [] [] 
  []
 
@@ -496,19 +543,22 @@ Package rerunfilecheck Info: File `latex1.out' has not changed.
 (rerunfilecheck)             Checksum: 972F63520F74D9E9724F8E50CCA94C4E;2691.
  ) 
 Here is how much of TeX's memory you used:
- 8915 strings out of 467871
- 139745 string characters out of 5418376
- 554758 words of memory out of 5000000
- 37643 multiletter control sequences out of 15000+600000
+ 10363 strings out of 467871
+ 167878 string characters out of 5418376
+ 579091 words of memory out of 5000000
+ 39076 multiletter control sequences out of 15000+600000
  654721 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,325b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/abhis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
-b><C:/Users/abhis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pf
-b>
-Output written on latex1.pdf (21 pages, 66549 bytes).
+
+pdfTeX warning (dest): name{figure.0.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+<C:/Users/abhis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb>
+<C:/Users/abhis/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on latex1.pdf (22 pages, 89332 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
