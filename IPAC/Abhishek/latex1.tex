@@ -1,0 +1,129 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{mathptmx}
+\usepackage{setspace}
+
+\begin{document}
+\doublespacing
+
+\title{Game-Theory-Based Balance: Formalizing the Machine Unlearning Problem as a Game Between Model Provider and Data Provider}
+\author{Abhishek Hupele \\ Research Scholar-240900465 \\ School of Computer Engineering, Manipal Institute of Technology, Manipal}
+\date{March 2026}
+\maketitle
+
+\section*{Supervision}
+\begin{itemize}
+    \item Dr. Sanjay Singh, Professor (Guide), School of Computer Engineering, MIT Manipal
+    \item Dr. P.C. Siddalingaswamy, Associate Dean (Co-Guide), School of Computer Engineering, MIT Manipal
+    \item Dr. Naveen Kulkarni, Director – Product Engineering - AI, EdgeVerve Systems Limited
+\end{itemize}
+\newpage
+\tableofcontents
+\listoffigures
+\listoftables
+
+\chapter*{Glossary}
+\begin{longtable}{>{\bfseries}p{3cm} p{10cm}}
+AI & Artificial Intelligence \\
+CNN & Convolution Neural Network \\
+DNN & Deep Neural Network \\
+LLM & Large Language Model \\
+LSTM & Long Short Term Memory \\
+MIA & Membership Inference Attack \\
+ML & Machine Learning \\
+MUL & Machine Unlearning \\
+NPTEL & National Programme on Technology Enhanced Learning \\
+PCA & Principal Component Analysis \\
+PII & Personally Identifiable Information \\
+RAI & Responsible AI \\
+RNN & Recurrent Neural Network \\
+SISA & Sharded, Isolated, Sliced, Aggregated \\
+SVM & Support Vector Machine \\
+\end{longtable}
+
+\chapter{Introduction}
+\section{Introduction to Machine Unlearning}
+Machine Unlearning means making a machine forget specific training data so that it behaves as if the data was never used. Reasons include withdrawal of consent, unethical acquisition, adversarial data, copyright issues, or compliance requirements.  
+Challenges: stochasticity, incrementality, catastrophe of unlearning.  
+Main approaches:
+\begin{itemize}
+    \item Centralized Unlearning
+    \item Federated (Distributed) Unlearning
+    \item Unlearning Verification
+    \item Privacy and Security Issues
+\end{itemize}
+
+\section{Introduction to Game Theory}
+Game theory studies strategic interactions between players.  
+Key concepts: players, strategies, payoffs, information, equilibrium (Nash Equilibrium).  
+Applications span economics, political science, biology, computer science, business, and social sciences.
+
+\section{Intersection of Game Theory and Privacy}
+Game theory helps balance privacy and utility. In machine unlearning, over-unlearning harms performance, under-unlearning risks privacy leaks.  
+This proposal formalizes unlearning as a game between model provider and data provider.
+
+\section{Problems Identified}
+\begin{itemize}
+    \item PII misuse (Cambridge Analytica, Apple Card bias, Amazon hiring bias, Clearview AI, Target pregnancy prediction, Gartner’s GenAI misuse forecast).
+    \item Need for balance between privacy and utility.
+    \item Technical difficulty of certified removal.
+    \item Lack of universal unlearning frameworks.
+    \item Performance degradation and leakage risks.
+    \item Variability in models, modalities, adversaries.
+\end{itemize}
+
+\section{Proposed Solutions}
+Formalize machine unlearning as a game-theoretic problem.  
+Develop generalized frameworks applicable across ML models, modalities, and adversary settings.  
+Flexible scope: start with classical ML and neural networks, expand to transformers and federated settings.
+
+\chapter{Literature Review}
+\begin{longtable}{|c|p{4cm}|p{3cm}|c|p{3cm}|p{3cm}|p{3cm}|}
+\hline
+Sl No & Title & Authors & Year & Methodology & Result & Limitations \\
+\hline
+1 & Responsible AI: Principles, Practices, and Applications & S. Wesselby & 2025 & Online course & Practitioner guidance & Not peer-reviewed \\
+\hline
+2 & Machine Unlearning: A Comprehensive Survey & Z. Wang et al. & 2024 & Survey taxonomy & Overview of methods & Limited empirical validation \\
+\hline
+3 & Machine Unlearning: A Survey & H. Xu et al. & 2023 & ACM Computing Surveys & Establishes unlearning categories & Limited streaming data coverage \\
+\hline
+4 & MLPro-GT—game theory and dynamic games modeling in Python & S. Yuwono et al. & 2024 & Framework paper & Open-source GT library & Limited templates \\
+\hline
+% Continue table entries as needed...
+\end{longtable}
+
+\chapter{Research Gaps}
+% Content continues...
+
+\chapter{Objectives}
+% Content continues...
+
+\chapter{Methodology}
+% Content continues...
+
+\chapter{Expected Outcome}
+% Content continues...
+
+\chapter{Importance of Proposed Research and SDG Link}
+% Content continues...
+
+\chapter{Research Time Plan}
+% Content continues...
+
+\chapter{Pilot Study}
+% Content continues...
+
+\chapter{Details of Expenses and Source of Funding}
+% Content continues...
+
+\chapter{Course Work Details}
+% Content continues...
+
+\chapter{References}
+% Insert bibliography here
+
+\end{document}
